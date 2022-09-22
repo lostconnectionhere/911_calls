@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# csv and ipynb
+911.csv
+01-911 Calls Data Capstone Project.ipynb
